@@ -1,0 +1,11 @@
+#acym_wrapper .gender_image{
+	width: 30px;
+	height: 30px;
+	cursor: pointer;
+}
+
+#acym_wrapper .gender_image.selected_gender{
+	background-color: lightgrey;
+	border-radius: 3px;
+	border: 1px solid #a4a4a4;
+}
